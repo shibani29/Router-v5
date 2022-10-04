@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "react router v5",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
